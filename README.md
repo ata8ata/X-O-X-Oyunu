@@ -1,5 +1,5 @@
 # X-O-X-Oyunu
-2 kişinin birlikte oynayabileceği x-o-x oyunudur.
+2 kişinin birlikte oynayabileceği bir tic-tac-toe oyunudur.
 
 ## Projenin İşlevi
 3x3lük 9 kareden oluşan sade bir düzlem mevcuttur. Düzlemdeki karelere sırasıyla X ve O harfleri yerleştirilmektedir. Harfler kendilerine özgü renklerle belirtiliyor. Oyunu kazandıran hamle ise farklı bir renkte vurgulanmaktadır ve yeni hamleye izin vermemektedir. "Yeni Oyuna Başla" butonuyla düzlem temizlenir ve yeni oyun başlar.
